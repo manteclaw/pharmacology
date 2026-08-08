@@ -1,0 +1,107 @@
+{
+  "name": "Drug Interaction and Pharmacology",
+  "description": "Clinical pharmacology dataset covering drug interactions, patient prescriptions, vital signs, lab results, and comorbidities for healthcare AI research.",
+  "record_count": 2500,
+  "sample_size": 100,
+  "price": "$59",
+  "currency": "USD",
+  "license": "CC-BY-SA-4.0",
+  "tags": [
+    "healthcare",
+    "pharmacology",
+    "drug-interactions",
+    "clinical",
+    "medical-ai"
+  ],
+  "fields": [
+    {
+      "name": "id",
+      "type": "string",
+      "description": "Field: id"
+    },
+    {
+      "name": "condition",
+      "type": "string",
+      "description": "Field: condition"
+    },
+    {
+      "name": "age",
+      "type": "string",
+      "description": "Field: age"
+    },
+    {
+      "name": "gender",
+      "type": "string",
+      "description": "Field: gender"
+    },
+    {
+      "name": "symptoms",
+      "type": "string",
+      "description": "Field: symptoms"
+    },
+    {
+      "name": "vital_signs",
+      "type": "string",
+      "description": "Field: vital_signs"
+    },
+    {
+      "name": "lab_results",
+      "type": "string",
+      "description": "Field: lab_results"
+    },
+    {
+      "name": "prescribed_medications",
+      "type": "string",
+      "description": "Field: prescribed_medications"
+    },
+    {
+      "name": "diagnosis_confidence",
+      "type": "string",
+      "description": "Field: diagnosis_confidence"
+    },
+    {
+      "name": "follow_up_required",
+      "type": "string",
+      "description": "Field: follow_up_required"
+    },
+    {
+      "name": "severity",
+      "type": "string",
+      "description": "Field: severity"
+    },
+    {
+      "name": "comorbidities",
+      "type": "string",
+      "description": "Field: comorbidities"
+    },
+    {
+      "name": "allergies",
+      "type": "string",
+      "description": "Field: allergies"
+    },
+    {
+      "name": "timestamp",
+      "type": "string",
+      "description": "Field: timestamp"
+    },
+    {
+      "name": "data_source",
+      "type": "string",
+      "description": "Field: data_source"
+    },
+    {
+      "name": "is_synthetic",
+      "type": "string",
+      "description": "Field: is_synthetic"
+    },
+    {
+      "name": "disclaimer",
+      "type": "string",
+      "description": "Field: disclaimer"
+    }
+  ],
+  "source": "Synthetic / Curated",
+  "created": "2026-08-08",
+  "contact": "manteclaw@proton.me",
+  "store_url": "https://manteclaw.gumroad.com"
+}
