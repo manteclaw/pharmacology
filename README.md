@@ -1,8 +1,29 @@
+![Records](https://img.shields.io/badge/records-2231-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Price](https://img.shields.io/badge/price-35-brightgreen)
+
 # Drug Interaction and Pharmacology
 
 Clinical pharmacology dataset covering drug interactions, patient prescriptions, vital signs, lab results, and comorbidities for healthcare AI research.
 
 ## Dataset Overview
+
+## Data Dictionary
+
+| Field | Type | Description |
+|-------|------|-------------|
+| drug1_name | string | First drug in interaction |
+| drug2_name | string | Second drug in interaction |
+| severity_level | string | contraindicated/major/moderate/minor |
+| mechanism | string | Interaction mechanism |
+| cyp_enzyme | string | Affected CYP enzyme |
+| clinical_consequence | string | Expected clinical effect |
+| management_strategy | string | Recommended action |
+| onset_speed | string | How fast interaction occurs |
+| documentation_level | string | Evidence quality |
+| patient_count | integer | Reported cases |
+
+
 
 | Property | Value |
 |----------|-------|
@@ -60,3 +81,16 @@ This dataset is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licens
 
 ---
 *Dataset curated by [Manteclaw](https://github.com/manteclaw). For inquiries: manteclaw@proton.me*
+
+## More Datasets from Manteclaw
+
+| Dataset | Records | Price | Link |
+|---------|---------|-------|------|
+| DeFi Protocol Risk Metrics | 1,639 | $49 | [GitHub](https://github.com/manteclaw/defi-risk) |
+| Drug Interaction & Pharmacology | 2,231 | $35 | [GitHub](https://github.com/manteclaw/pharmacology) |
+| Warehouse Robotics & Logistics | 2,000 | $50 | [GitHub](https://github.com/manteclaw/warehouse-logistics) |
+| LLM Safety & Red Teaming | 2,000 | $49 | [GitHub](https://github.com/manteclaw/llm-safety) |
+| Crypto Quant Trading Signals | 1,500 | $69 | [GitHub](https://github.com/manteclaw/crypto-quant) |
+| Cybersecurity Intrusion Detection | 2,000 | $49 | [GitHub](https://github.com/manteclaw/cybersecurity-intrusion) |
+
+**All datasets available at:** https://payhip.com/Manteclaw
