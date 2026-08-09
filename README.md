@@ -1,3 +1,24 @@
+<!--
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Drug Interaction and Pharmacology",
+  "description": "Clinical pharmacology dataset covering drug interactions, patient prescriptions, vital signs, lab results, and comorbidities for healthcare AI research.",
+  "creator": {"@type": "Organization", "name": "Manteclaw"},
+  "license": "https://opensource.org/licenses/MIT",
+  "distribution": {"@type": "DataDownload", "contentUrl": "https://payhip.com/Manteclaw"}
+}
+</script>
+-->
+[![Get Full Dataset](https://img.shields.io/badge/Get%20Full%20Dataset-Payhip-10b981?style=for-the-badge)](https://payhip.com/Manteclaw)
+
+## 📊 Quick Stats
+
+| 📁 Records | 📄 Files | 📐 Columns | 💾 Size | 💰 Price |
+|:----------:|:--------:|:----------:|:-------:|:--------:|
+| 2,231 | 3 | 17 | ~220 KB | $35 |
+
 ![Records](https://img.shields.io/badge/records-2231-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Price](https://img.shields.io/badge/price-35-brightgreen)
@@ -94,3 +115,8 @@ This dataset is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licens
 | Cybersecurity Intrusion Detection | 2,000 | $49 | [GitHub](https://github.com/manteclaw/cybersecurity-intrusion) |
 
 **All datasets available at:** https://payhip.com/Manteclaw
+
+
+---
+
+**Keywords:** dataset, machine learning, pharmacology, Base L2, AI agents
